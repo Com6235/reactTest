@@ -1,8 +1,12 @@
 {
-  "name": "react-test",
+  "name": "react-testing",
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "license": "MIT",
+  "author": {
+    "name": "Com6235"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

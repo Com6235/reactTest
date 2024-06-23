@@ -5,41 +5,6 @@ export function Page() {
       <>
           <Block>
               <p className={`text-1xl`}>
-                  я хочу пицы
-              </p>
-          </Block>
-          <Block>
-              <p className={`text-2xl`}>
-                  я хочу пицы
-              </p>
-          </Block>
-          <Block>
-              <p className={`text-3xl`}>
-                  я хочу пицы
-              </p>
-          </Block>
-          <Block>
-              <p className={`text-4xl`}>
-                  я хочу пицы
-              </p>
-          </Block>
-          <Block>
-              <p className={`text-5xl`}>
-                  я хочу пицы
-              </p>
-          </Block>
-          <Block>
-              <p className={`text-6xl`}>
-                  я хочу пицы
-              </p>
-          </Block>
-          <Block>
-              <p className={`text-7xl`}>
-                  я хочу пицы
-              </p>
-          </Block>
-          <Block>
-              <p className={`text-1xl`}>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida arcu ac tortor dignissim convallis aenean et. Pellentesque elit ullamcorper dignissim cras tincidunt. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Nisl vel pretium lectus quam id leo. Aliquet porttitor lacus luctus accumsan tortor. Interdum consectetur libero id faucibus nisl. Arcu dui vivamus arcu felis bibendum ut. Nulla porttitor massa id neque aliquam vestibulum. Ut eu sem integer vitae justo eget magna fermentum iaculis. Tempor orci dapibus ultrices in iaculis nunc. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Purus non enim praesent elementum facilisis leo. Ut eu sem integer vitae justo. Est ultricies integer quis auctor elit sed vulputate mi sit. Diam quis enim lobortis scelerisque fermentum dui. Orci sagittis eu volutpat odio facilisis mauris sit amet.
 
                   Tincidunt eget nullam non nisi est sit amet facilisis magna. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Vel pretium lectus quam id leo in vitae. Elementum integer enim neque volutpat ac. Turpis in eu mi bibendum neque egestas congue. Pellentesque nec nam aliquam sem. Arcu non odio euismod lacinia at. Diam quis enim lobortis scelerisque fermentum dui faucibus. Commodo ullamcorper a lacus vestibulum sed arcu. Malesuada fames ac turpis egestas. Cursus risus at ultrices mi tempus. Tortor posuere ac ut consequat. Nam libero justo laoreet sit amet cursus sit amet dictum. At tellus at urna condimentum mattis pellentesque id nibh.

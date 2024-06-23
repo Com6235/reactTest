@@ -32,7 +32,7 @@ function DarkModeButton() {
     return (
         <button onClick={() => toggleDarkMode()}
                 className="size-16 min-w-16 min-h-16 rounded-3xl
-                bg-blue-500 dark:bg-purple-600 hover:bg-blue-400 dark:hover:bg-purple-500
+                bg-blue-500 dark:bg-purple-600 hover:bg-blue-400 dark:hover:bg-purple-500 hover:shadow-2xl shadow-black
                 -right-0 -top-0 order-last content-center align-middle">
             <img src={darkMode ? sunIcon : moonIcon} alt="a" className="size-14 m-auto" onLoad={() => loadDarkMode()} />
         </button>
@@ -49,7 +49,7 @@ export function Wrapper({children}: OnlyChildren) {
                 <div className="w-full"/>
                 <DarkModeButton/>
             </div>
-            <div className={`relative h-full w-full superWrap pt-32 space-x-0.5 space-y-1 max-h-full max-w-full z-0`}>
+            <div className={`relative h-full w-full superWrap pt-28 max-h-full max-w-full z-0`}>
                 {children}
             </div>
         </div>
@@ -66,7 +66,7 @@ export function HyperImage({src, href, className}: { src: string | undefined , h
 
 export function Block({children}: OnlyChildren) {
     return (
-        <div className={`relative rounded-3xl w-fit h-fit shadow-2xl bg-blue-600 dark:bg-purple-800 content-center align-middle p-2`}>
+        <div className={`relative rounded-3xl w-fit h-fit shadow-2xl bg-blue-600 dark:bg-purple-800 content-center align-middle p-2 flex mt-1 mr-2`}>
             {children}
         </div>
     )

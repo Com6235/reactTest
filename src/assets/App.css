@@ -9,8 +9,7 @@
   align-content: flex-start;
   justify-content: flex-start;
   align-items: flex-start;
-  overflow-y: scroll;
-  scroll-behavior: auto;
+  overflow-y: auto;
 }
 
 @tailwind base;

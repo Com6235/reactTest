@@ -1,0 +1,18 @@
+#root {
+  font-family: ui-monospace, system-ui;
+}
+
+.superWrap {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: flex-start;
+  align-items: flex-start;
+  overflow-y: scroll;
+  scroll-behavior: auto;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
